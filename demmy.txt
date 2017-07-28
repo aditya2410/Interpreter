@@ -1,0 +1,25 @@
+a=5;
+b=3;
+c=a+b;
+g=a*b;
+d=(b*a)+(b*3);
+if        (a>b):
+then
+
+
+a=b;
+
+
+
+
+fi;
+
+
+
+while   (a<30):
+
+			a=a+1;
+	c=c+d;
+done;
+f=6;
+print(a,"aditya",b,c,f,d,g,"yo12314");
